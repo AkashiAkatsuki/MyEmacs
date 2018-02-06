@@ -1,0 +1,12 @@
+(setq inf-ruby-default-implementation "pry")
+(setq inf-ruby-eval-binding "Pry.toplevel_binding")
+(add-hook 'inf-ruby-mode-hook 'ansi-color-for-comint-mode-on)
+
+(add-hook 'ruby-mode-hook
+	  '(lambda()
+	     (robe-mode)
+	     (robe-start)
+	     (ruby-end-mode)))
+
+(eval-after-load 'company
+    '(push 'company-robe company-backends))'))

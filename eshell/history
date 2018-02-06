@@ -1,0 +1,123 @@
+jruby matari.rb 
+mkdir mlts
+mv test.mlt mlts/
+ls
+jruby matari.rb
+jruby matari.rb
+jruby matari.rb
+jruby matari.rb
+jruby matari.rb
+sudo jruby matari.rb
+sudo jruby matari.rb
+ls -l
+chmod +r mlts
+jruby matari.rb
+jruby matari.rb
+jruby matari.rb
+jruby matari.rb
+jruby matari.rb
+jruby matari.rb
+jruby matari.rb
+jruby matari.rb
+cat $HOME/.matari/mlts/suiginto01 
+mv $HOME/.matari/mlts/suiginto01 $HOME/.matari/mlts/suiginto01.mlts
+mv $HOME/.matari/mlts/suiginto01.mlts $HOME/.matari/mlts/suiginto01.mlt
+cat $HOME/.matari/mlts/suiginto01.mlt
+jruby matari.rb
+jruby matari.rb
+jruby matari.rb  
+jruby matari.rb
+jruby matari.rb
+jruby matari.rb
+find -b $HOME/.matari/mlts/suiginto01.mlt
+file -b $HOME/.matari/mlts/suiginto01.mlt
+jruby matari.rb
+jruby matari.rb
+jruby matari.rb
+jruby matari.rb
+jruby matari.rb
+jruby matari.rb
+jruby matari.rb
+jruby matari.rb
+cd $HOME/Downloads/
+mv ガールズ＆パンツァーその他.mlt　ガールズ＆パンツァーその他学生 $HOME/.matari/mlts/
+mv ガールズ＆パンツァーその他学生.mlt $HOME/.matari/mlts/
+cd
+cd 4087-CD0D/workspace/matari/
+jruby matari.rb
+jruby matari.rb
+jruby matari.rb 
+jruby matari.rb 
+jruby matari.rb 
+jruby matari.rb 
+nkf --guess $HOME/.matari/mlts/suiginto01.mlt
+file -i $HOME/.matari/mlts/suiginto01.mlt
+jruby matari.rb 
+jruby matari.rb 
+jruby matari.rb 
+jruby matari.rb 
+jruby matari.rb 
+jruby matari.rb 
+jruby matari.rb 
+jruby matari.rb suiginto01 5
+jruby matari.rb suiginto01 5
+jruby matari.rb suiginto01 15
+cat layout.fxml
+cat layout.fxml
+jruby matari.rb suiginto01 15
+jruby matari.rb suiginto01 15
+jruby matari.rb suiginto01 15
+jruby matari.rb suiginto01 15
+jruby matari.rb suiginto01 15
+jruby matari.rb suiginto01 15
+jruby matari.rb suiginto01 15
+jruby matari.rb suiginto01 15
+jruby matari.rb suiginto01 15
+jruby matari.rb suiginto01 15
+jruby matari.rb suiginto01 15
+jruby matari.rb suiginto01 15
+jruby matari.rb suiginto01 15
+jruby matari.rb suiginto01 15
+jruby matari.rb suiginto01 15
+jruby matari.rb suiginto01 15
+jruby matari.rb suiginto01 15
+jruby matari.rb suiginto01 15
+jruby matari.rb suiginto01 15
+jruby matari.rb suiginto01 15
+jruby matari.rb suiginto01 15
+jruby matari.rb suiginto01 15
+jruby matari.rb suiginto01 15
+jruby matari.rb suiginto01 15
+jruby matari.rb suiginto01 15
+jruby matari.rb suiginto01 15
+jruby matari.rb suiginto01 15
+jruby matari.rb suiginto01 15
+jruby matari.rb suiginto01 15
+jruby matari.rb suiginto01 25
+jruby matari.rb suiginto01 25
+jruby matari.rb suiginto01 25
+jruby matari.rb suiginto01 25
+jruby matari.rb suiginto01 25
+jruby matari.rb suiginto01 25
+jruby matari.rb suiginto01 25
+jruby matari.rb suiginto01 25
+jruby matari.rb suiginto01 25
+jruby matari.rb suiginto01 25
+jruby matari.rb suiginto01 25
+jruby matari.rb suiginto01 25
+jruby matari.rb suiginto01 25
+jruby matari.rb suiginto01 25
+ls
+jruby matari.rb
+mkdir mlts
+jruby matari.rb
+jruby matari.rb
+jruby matari.rb suiginto01 25
+cp matari.rb matari.rb2
+rm matari.rb2
+rm matari2.rb
+cp matari.rb matari-temp.rb
+jruby matari.rb
+jruby matari.rb &
+scenebuilder &
+jruby matari.rb
